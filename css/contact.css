@@ -3,10 +3,10 @@
     width: 100%;
     height: 100px;
    }
-/*.nav_menu ul{*/
-    /*text-decoration: none;*/
+.nav_menu ul{
+    text-decoration: none;
 
-/*}*/
+}
 .nav_menu .menu{
     display: inline-block;
     border: 2px solid red;
@@ -33,4 +33,5 @@
     color: violet;
     border: 1px solid green;
     background: #585858;
-}
+}git
+ The directory D:\Work\Bike2\FrontEndBike is under Git, but is not registered in the Settings.
